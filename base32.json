@@ -1,0 +1,110 @@
+[
+  {
+    "code": "7qqqqqqqqqqppqqppqqppppqqqq",
+    "data": "7800000000000008400084000842100000",
+    "chck": "7qqqqqqqqqqppqqppqqppppqqqq",
+    "bitl": 135
+  },
+  {
+    "code": "qqqqqqqqqqqqqqqqqum7aum7aum",
+    "data": "39bf779bf779b",
+    "chck": "um7aum7aum",
+    "bitl": 50
+  },
+  {
+    "code": "7a",
+    "data": "3dd",
+    "chck": "7a",
+    "bitl": 10
+  },
+  {
+    "code": "7au",
+    "data": "7bbc",
+    "chck": "7au",
+    "bitl": 15
+  },
+  {
+    "code": "7aum",
+    "data": "f779b",
+    "chck": "7aum",
+    "bitl": 20
+  },
+  {
+    "code": "7aum7aum",
+    "data": "f779bf779b",
+    "chck": "7aum7aum",
+    "bitl": 40
+  },
+  {
+    "code": "7aum7aum7aum",
+    "data": "f779bf779bf779b",
+    "chck": "7aum7aum7aum",
+    "bitl": 60
+  },
+  {
+    "code": "7aum7aum7aum7aum7aum7aum7aum7aum",
+    "data": "f779bf779bf779bf779bf779bf779bf779bf779b",
+    "chck": "7aum7aum7aum7aum7aum7aum7aum7aum",
+    "bitl": 160
+  },
+  {
+    "code": "7aum7aum7aum7aum7aum7aum7aum7aum7aum7aum7aum7aum7aum7aum7aum7aum",
+    "data": "f779bf779bf779bf779bf779bf779bf779bf779bf779bf779bf779bf779bf779bf779bf779bf779b",
+    "chck": "7aum7aum7aum7aum7aum7aum7aum7aum7aum7aum7aum7aum7aum7aum7aum7aum",
+    "bitl": 320
+  },
+  {
+    "code": "pqqqq",
+    "data": "100000",
+    "chck": "pqqqq",
+    "bitl": 21
+  },
+  {
+    "code": "ppm2qsznhks23z7629mms6s4cwef74vcwvn0h829pq",
+    "data": "21da81014ef682a22f6945dee1a8570eca7d5661cc9bee751420",
+    "chck": "ppm2qsznhks23z7629mms6s4cwef74vcwvn0h829pq",
+    "bitl": 206
+  },
+  {
+    "code": "pqq3728yw0y47sqn6l2na30mcw6zm78dzq5ucqzc37",
+    "data": "20047ca391cf257d004f5f54fb17ef0ed0b7e3b440a73001623e",
+    "chck": "pqq3728yw0y47sqn6l2na30mcw6zm78dzq5ucqzc37",
+    "bitl": 206
+  },
+  {
+    "code": "pr95sy3j9xwd2ap32xkykttr4cvcu7as4yc93ky28e",
+    "data": "232d2048c8a67355d0c546b12cb58eb86639eec2a4c1636228f9",
+    "chck": "pr95sy3j9xwd2ap32xkykttr4cvcu7as4yc93ky28e",
+    "bitl": 206
+  },
+  {
+    "code": "qp63uahgrxged4z5jswyt5dn5v3lzsem6cy4spdc2h",
+    "data": "1d479dba066465b515250711746ce8c8fc50cef58256016e157",
+    "chck": "p63uahgrxged4z5jswyt5dn5v3lzsem6cy4spdc2h",
+    "bitl": 201
+  },
+  {
+    "code": "qpm2qsznhks23z7629mms6s4cwef74vcwvy22gdx6a",
+    "data": "1da81014ef682a22f6945dee1a8570eca7d5661cc2294869b5d",
+    "chck": "pm2qsznhks23z7629mms6s4cwef74vcwvy22gdx6a",
+    "bitl": 201
+  },
+  {
+    "code": "qqq3728yw0y47sqn6l2na30mcw6zm78dzqre909m2r",
+    "data": "47ca391cf257d004f5f54fb17ef0ed0b7e3b4401e4af2ed43",
+    "chck": "3728yw0y47sqn6l2na30mcw6zm78dzqre909m2r",
+    "bitl": 195
+  },
+  {
+    "code": "qr6l943ye76u8andqcfr6zpf68yua0mhpctmpg2s8m",
+    "data": "3d7cb58933ed70fd9b41848f420a747273afddc385ec28540fb",
+    "chck": "r6l943ye76u8andqcfr6zpf68yua0mhpctmpg2s8m",
+    "bitl": 202
+  },
+  {
+    "code": "qr95sy3j9xwd2ap32xkykttr4cvcu7as4y0qverfuy",
+    "data": "32d2048c8a67355d0c546b12cb58eb86639eec2a4781991a784",
+    "chck": "r95sy3j9xwd2ap32xkykttr4cvcu7as4y0qverfuy",
+    "bitl": 202
+  }
+]
